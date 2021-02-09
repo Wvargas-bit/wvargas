@@ -1,0 +1,40 @@
+using System;
+
+namespace Ordenamiento_por_seleccion
+{
+    class Program
+    {
+
+        public static void Main(string[] args)
+        {
+            int[] numeros = { 4, 3, 5, 2, 1};
+            int i, j, min, auxiliar;
+
+            // Para todos los datos del array
+            for (i = 0; i < numeros.Length - 1; i++)
+            {
+                // se busca el menor en cada pasada
+                min = i;
+                for (j = i + 1; j < numeros.Length; j++)
+                {
+                    if (numeros[j] < numeros[min])
+                        min = j;
+                }
+
+                //movemos el menor a la posison correspondiente
+                if (min != i)
+                {
+                    auxiliar = numeros[i];
+                    numeros[i] = numeros[min];
+                    numeros[min] = auxiliar;
+                }
+
+                // muestro el progreso
+                foreach (int dato in numeros)
+                    Console.Write(dato + " ");
+                Console.WriteLine();
+            }
+        }
+    }
+
+}
