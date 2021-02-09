@@ -1,0 +1,7 @@
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\seleccion\seleccion\bin\Debug\seleccion.exe.config
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\seleccion\seleccion\bin\Debug\seleccion.exe
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\seleccion\seleccion\bin\Debug\seleccion.pdb
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\seleccion\seleccion\obj\Debug\seleccion.csprojAssemblyReference.cache
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\seleccion\seleccion\obj\Debug\seleccion.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\seleccion\seleccion\obj\Debug\seleccion.exe
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\seleccion\seleccion\obj\Debug\seleccion.pdb
