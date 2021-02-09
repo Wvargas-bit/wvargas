@@ -1,0 +1,6 @@
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\algoritmoinsercion\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\algoritmoinsercion\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\algoritmoinsercion\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\algoritmoinsercion\ConsoleApp1\obj\Debug\insercion.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\algoritmoinsercion\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\algoritmoinsercion\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
