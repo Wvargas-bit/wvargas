@@ -1,0 +1,2 @@
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\Arbol\Arbol\obj\Debug\Arbol.csprojAssemblyReference.cache
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\Arbol\Arbol\obj\Debug\Arbol.csproj.CoreCompileInputs.cache
