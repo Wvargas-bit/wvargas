@@ -71,7 +71,31 @@ namespace Arbol
                 return temp;
             }
 
-            //return raiz;
+        }
+
+        //Transversa preorder
+        public void TransversaPreO(CNodo pNodo)
+        {
+            if (pNodo == null)
+                return;
+
+            //Primero realizo el proceso en mí
+            for (int n = 0; n < i; n++)
+                Console.Write(" ");
+
+            Console.WriteLine(pNodo.Dato);
+
+            //Luego proceso a mi hijo
+            if(pNodo.Hijo != null)
+            {
+                i++;
+                TransversaPreO(pNodo.Hijo);
+                i--;
+            }
+
+            //Si tengo hermanos los proceso
+            if (pNodo.Hermano != null)
+                TransversaPreO(pNodo.Hermano);
         }
 
 
