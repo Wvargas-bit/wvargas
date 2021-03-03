@@ -6,3 +6,4 @@ C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\algo
 C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\algoritmos_grupo2\seminario2\Arbol\Arbol\obj\Debug\Arbol.csproj.CoreCompileInputs.cache
 C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\algoritmos_grupo2\seminario2\Arbol\Arbol\obj\Debug\Arbol.exe
 C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\algoritmos_grupo2\seminario2\Arbol\Arbol\obj\Debug\Arbol.pdb
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\algoritmos_grupo2\seminario2\Arbol\Arbol\obj\Debug\Arbol.csprojAssemblyReference.cache

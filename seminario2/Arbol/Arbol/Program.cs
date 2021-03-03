@@ -40,6 +40,29 @@ namespace Arbol
             arbol.Insertar("n", n);
 
             arbol.TransversaPreO(raiz);
+            Console.WriteLine("-------");
+            //arbol.TransversaPostO(raiz);
+            //Console.WriteLine("-------");
+
+            CNodo encontrado = arbol.Buscar("z", raiz);
+            if (encontrado != null)
+                Console.WriteLine(encontrado.Dato);
+            else
+                Console.WriteLine("No lo encontré");
+
+            Console.WriteLine("------");
+
+            string donde = "";
+            string que = "";
+            Console.WriteLine("¿En dónde insertar?");
+            donde = Console.ReadLine();
+            Console.WriteLine("¿Qué deseas insertar?");
+            que = Console.ReadLine();
+
+            encontrado = arbol.Buscar(donde, raiz);
+            arbol.Insertar(que, encontrado);
+            arbol.TransversaPreO(raiz);
+
 
             Console.Read();
         }
