@@ -1,0 +1,26 @@
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.csprojAssemblyReference.cache
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.AssemblyInfo.cs
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.exe
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.deps.json
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.runtimeconfig.json
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.runtimeconfig.dev.json
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.dll
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.pdb
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.dll
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.pdb
+C:\Users\Haly\Desktop\wvargas\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.genruntimeconfig.cache
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.exe
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.deps.json
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.runtimeconfig.json
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.runtimeconfig.dev.json
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.dll
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.pdb
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.csprojAssemblyReference.cache
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.AssemblyInfo.cs
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.dll
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.pdb
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.genruntimeconfig.cache
