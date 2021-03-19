@@ -1,0 +1,7 @@
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\ArbolB\ArbolB\obj\Debug\ArbolB.csprojAssemblyReference.cache
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\ArbolB\ArbolB\obj\Debug\ArbolB.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\ArbolB\ArbolB\bin\Debug\ArbolB.exe.config
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\ArbolB\ArbolB\bin\Debug\ArbolB.exe
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\ArbolB\ArbolB\bin\Debug\ArbolB.pdb
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\ArbolB\ArbolB\obj\Debug\ArbolB.exe
+C:\Users\Omar\Documents\Tareas UAPA\13 tri\Estructura de datos y algoritmos\recursos\ArbolB\ArbolB\obj\Debug\ArbolB.pdb
